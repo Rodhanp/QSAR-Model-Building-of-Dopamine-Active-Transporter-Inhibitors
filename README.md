@@ -1,11 +1,8 @@
 # Dopamine Active Transporter Bioactivity Prediction App
 
-## Web App built in `Python` + `Streamlit`by Rodhan Patke with help from tutorials of ",
-link("https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q", "@Data Professor"),
-br(),
-"Descriptor calculated using ",
-link("http://www.yapcwsoft.com/dd/padeldescriptor/", "PaDEL-Descriptor; "),
-link("https://doi.org/10.1002/jcc.21707", " Read the Paper")
+### Web App built in `Python` + `Streamlit`by Rodhan Patke with help from tutorials of [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q).
+
+### Molecular Descriptor calculated using [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/).
 
 # Reproducing this web app
 To recreate this web app on your own computer, do the following.

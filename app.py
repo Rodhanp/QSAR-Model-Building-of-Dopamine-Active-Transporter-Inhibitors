@@ -90,7 +90,7 @@ st.markdown(html, unsafe_allow_html=True)
 with st.sidebar.header('1. Upload your CSV data'):
     uploaded_file = st.sidebar.file_uploader("Upload your input file", type=['txt'])
     st.sidebar.markdown("""
-[Example input file](https://raw.githubusercontent.com/dataprofessor/bioactivity-prediction-app/main/example_acetylcholinesterase.txt)
+[Example input file](https://raw.githubusercontent.com/Rodhanp/QSAR-Model-Building-of-Dopamine-Active-Transporter-Inhibitors/main/example_DAT.txt)
 """)
 
 if st.sidebar.button('Predict'):
