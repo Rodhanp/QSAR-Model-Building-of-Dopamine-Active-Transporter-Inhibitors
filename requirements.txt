@@ -4,3 +4,4 @@ base58==2.0.1
 subprocess.run
 os-win
 pickle5
+htbuilder
