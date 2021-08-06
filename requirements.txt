@@ -6,3 +6,5 @@ os-win
 pickle5
 pybase64
 htbuilder
+install-jdk
+import-java
